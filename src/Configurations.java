@@ -1,7 +1,7 @@
 /*
  * Class Name: Configurations
  * Purpose: Implements all the methods needed by class Play
- * Author: Willie Leung, 251374052
+ * Author: Willie Leung
  */
 
 public class Configurations {
