@@ -1,7 +1,7 @@
 /*
  * Class Name: Data
  * Purpose: Represent a record in the HashDictionary
- * Author: Willie Leung, 251374052
+ * Author: Willie Leung
  */
 
 public class Data {
