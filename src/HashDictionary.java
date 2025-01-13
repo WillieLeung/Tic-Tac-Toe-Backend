@@ -1,7 +1,7 @@
 /*
  * Class Name: HashDictionary
  * Purpose: Implements DictionaryADT with a hash table with separate chaining
- * Author: Willie Leung, 251374052
+ * Author: Willie Leung
  */
 
 import java.util.LinkedList; // Import built in Java LinkedList class
